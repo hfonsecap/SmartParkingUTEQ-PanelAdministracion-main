@@ -116,4 +116,4 @@ Con las variables de entorno configuradas y la tabla `vehiculos` disponible en S
 4. La búsqueda filtre los campos indicados.
 5. La paginación muestre 10 registros por página.
 6. **Actualizar** vuelva a consultar Supabase.
-7. No existan opciones ni formularios para insertar, modificar o eliminar vehículos.
+7. No existan opciones ni formularios para insertar, modificar o eliminar vehículos. 
